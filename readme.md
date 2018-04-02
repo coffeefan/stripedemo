@@ -1,5 +1,5 @@
-#Stripe DEMO
+# Stripe DEMO
 `Code Comments in English`
 
-##Demo
+## Demo
 Das Demo ist unter https://christianbachmann.ch/develop/stripedemo/
